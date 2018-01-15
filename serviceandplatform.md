@@ -1,6 +1,8 @@
 
 Компани и агентства, платформы и сервисы, оказывающие весь спектр услуг по проведению ICO - https://icobench.com/agencies
 
+люди - https://icobench.com/people
+
 https://www.orderbook.io/#/landing - Secure ICO Platform, Multi–currency Wallet, ICO participation, Trading.
 
 https://tokensale.icobox.io/close-ico
