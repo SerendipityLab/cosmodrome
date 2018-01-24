@@ -1,8 +1,13 @@
-# cosmodrome manifesto 
+# Mission
+
+1. We want to put out all the production and extraction of resources into space, where multi-functional robots will operate on 99%. They will also collect and configure themselves in orbit, managed by Grid AI.
+2. We want to turn the Earth into a global university and research center.
+
+### Manifesto 
 
 Cosmos means a lot. This is the future; this is the economy, it is a symbol of progress, it is a sacred dream, it is infinity, and it is a challenge. This project is for people who do not have a question why and for what, but there are only questions about what and how.
 
-# System problem
+### System problem
 
 They say if you want to earn a million in space, spend a billion. On the one hand, many have a desire to enter the space industry, but only a few can afford it. The reason is negative profitability, colossal capital intensity, and high risks, technological unpredictability, lack of fundamental knowledge. 
 
@@ -12,129 +17,146 @@ This is not an engineering, but an organizational problem that takes its origin 
 
 However, everything that we encounter in space, as a species, has a global nature. The cosmos does not care about our national, legal, racial or religious fragmentation. Space gives humanity a chance to unite its efforts, going beyond the paradigm of nation-based attitude. Space is passion and love, and it has no boundaries.
 
-# Mission of the project
+### Sub mission of the project
 
-Creation of an alternative system for financing global space projects, using new capabilities of ICO and blockchain approaches.
+Building of an alternative system for financing global space projects, using new capabilities of ICO and blockchain approaches.
+
+### Approach prerequisites
+
+All projects in the space industry can be divided into three stages:
+
+- extra early stage,
+- development and validation stage,
+- business stage.
+
+All projects falling into **extra early stage** - have 100% risk, as a rule, there is only an idea, a hypothesis, often an incomplete team, an intensive R & D is required. Such projects are usually financed through grants and competed for funds' money.
+
+Projects in the **development and validation** stage - require quite significant resources, but still have a focus on technology, without which it is just impossible to build a business. Such projects in the space industry are the most difficult to obtain financing, because on the one hand they may require resources, but the level of risk and commercial prospects are not yet defined.
+
+Projects in the **business stage** are aimed at building a business based on the already available technology. Such projects are financed by specialized VC, scientific foundations or strategic investors in the face of industry giants.
+
+### Main problem of financing the industry
+
+Projects in extra early and development stage - are experiencing great funding difficulties due to high competition for money, high capital intensity, high risks and a very narrow range of funds investing in the space industry.
+
+### Solution**
+
+1. We want to build a 2-stage funding system.
+
+2. The first stage of financing is organized through the classic ICO using public lockers. 
+
+The Goal of this stage is to attract small amounts of money, which are sufficient for validating the essential technological and product hypotheses, realism and feasibility of approaches and the ability of the team to fulfill the promised promises. Anyone can take part in this ICO. 
+
+The sum of target amounts may not exceed hundreds of thousands and millions of dollars. 
+
+It is assumed that the output of this stage will be access to the closed area to attract significant amounts of funds on the second stage.
+
+3. The second stage of financing is organized through a closed ICO using a closed lock-up. 
+
+The Goal of this stage is to attract significant funds, which are sufficient for the realization of a commercially suitable technological solution. 
+
+The sum of target amounts can reach hundreds and possibly billions of dollars. In this ICO, only admitted members of a consortium with numbers not less than precise in advance could participate. 
+
+Private investors with any arbitrarily small amounts can finance projects at this stage through crypto funds that put small investors into pools. 
+
+Such a scheme, on the one hand, allows small investors to buy project tokens through a fund, and on the other hand increases the security of large ICOs, since crowd sale itself is available only to authorized participants. 
+
+Such a platform is closed to the outside world to solicit increased security measures. An essential feature of the second stage is that only projects that reach specific indicators at the first stage are allowed to this stage.
+
 
 # Topics list. Every topic includes projects which need funds.
 
-### Раздел 1. Транспортные операции на орбите
+# Section 1. Transport operations in orbit
 
-Есть нарастающая проблема загрязнения орбиты и управления объектами, находящимися на орбите Земли, как часть более комплексной задачи  Orbital Traffic Management. Поскольку число орбитальных объектов будет возрастать, то повышается риск столкновений. Зачем это нужно?
+There is an increasing problem of orbital contamination and management of objects in the Earth's orbit as part of the more complex task of Orbital Traffic Management. The number of orbital objects will increase, and the risk of collisions increases too. 
 
-1. Превенция столкновений и снижение затрат страхования пусков.
-2. Снижение затрат Orbital Traffic Management.
-3. Переработка и вторичное использование материалов и элементов конструкций для использования в орбитальной промышленности (Orbital Manufacturing). 
-4. Снижение затрат при строительстве на орбите. 
-5. Создание предпосылок для развертывания промышленной и логистической инфраструктуры на орбите.
+Goals:
 
-Решение.
+1. Prevent accidents and reduce the costs of insurance starts.
+2. Reducing the costs of Orbital Traffic Management.
+3. Recycling and re-use of materials and structural elements for use in the orbital industry (Orbital Manufacturing).
+4. Reducing costs when building in orbit.
+5. The building of prerequisites for the deployment of industrial and logistics infrastructure in orbit.
 
-* Переход от управления отдельным спутником или группировкой, к управлению всей массой объектов, которые находятся на орбитах.
-* Разработка Orbital Traffic Management System - система управления роем роботов-спутников и всеми объектами, поддерживающими протокол Orbital Traffic Security Protocol. 
-* Все объекты, которые находятся на орбите делятся на пассивные, лишенные возможности маневрировать и активные, способные к маневрированию. 
-* Orbital Traffic Security Protocol - это распределенный протокол, который позволяет активным объектам адаптивно маневрировать, чтобы с одной стороны поддерживать свои миссии, а с другой стороны исключать риск столкновения. Т.е. объектами на орбите управяют не только ЦУПы владельцев Orbital Assets, а Orbital Traffic Security Protocol по причине того, что при росте числа объектов - эта задача может быть решена комплексно. 
-* В Orbital Traffic Security Protocol существенная часть принятия решения о маневре отдается бортовому алгоритму управления движением (ИИ) спутника, который способен учитывать не только приоритеты миссии ЦУПа, но и изменение окружающей обстановки, прогнозировать ситуацию, превентивно посылать запросы на обслуживание. 
-* Риск представляют пассивные объекты, как те, миссии которых еще находятся в активной фазе, так и те, которые уже перешли в разряд космического мусора. 
-* В реестре Orbital Traffic Security Protocol зарегистрированы все объекты, находящиеся на орбите, происходит мониторинг их эволюций в реальном времени с одновременным моделироавнием и созданием вероятностных прогнозов поведения орбиты.
+Solution
 
-#### Поведение активных объектов
+* Transition from the management of a particular satellite or grouping, to control the entire mass of objects that are in orbit.
+* Development of the Orbital Traffic Management System - a system for controlling the swarm of robotic satellites and all objects that support the Orbital Traffic Security Protocol.
+* All objects that are in orbit are divided into passive, unable to maneuver and active, capable of maneuvering.
+* Orbital Traffic Security Protocol is a distributed protocol that allows dynamic objects to maneuver to maintain their missions on the one hand adaptively, and on the other hand to avoid the risk of collision. Those. Objects in orbit are controlled not only by the MCCs of Orbital Assets owners but by the Orbital Traffic Security Protocol because the number of objects can be solved in an integrated manner.
+* Making the maneuver by using onboard Satellite Motion Control Algorithm (AI) is a significant part of Orbital Traffic Security Protocol. SMCA takes into account not only the mission priorities of the MCC but also the changing environment, predict the situation, preventively send service requests.
+* The risk represents passive objects, like those whose missions are still in the active phase, and those that have already become space debris.
+* The Orbital Traffic Security Protocol logs all objects in orbit, monitors their evolution in real time while simulating and creating probabilistic forecasts of the behavior of the orbit.
 
-Каждый активный объект подстраивает свое положение на орбите. Для этого необходимо создание орбитальной силовой установки. 
+#### Behavior of active objects
 
-#### Орбитальная силовая установка
+Each active object adjusts its position in orbit. This requires the creation of an orbital power plant.
 
-1. Орбитальная силовая установка, позволяет свободное маневрирование в около земном пространстве - экономичная, с высокой тягой, дешевая в производстве и обслуживании, легкая для сборки и развертывания сборочного производства. 
-2. Любой может купить лицензию и производить + контроль качества, прежде, чем ОСУ будут куда-то установлена. Понятный жизненный цикл создания, апгрейда, горячей модификации и утилизации. Понятный способ автономного обслуживания и ремонта на орбите с использованием спутников-роботов ремонтников.
-3. Протоколы безопасности, т.е. все на БЧ и любая попытка вмешаться, автоматически передает управление спец. алгоритму безопасности. 
-4. ОСУ комплектуется любой самостоятельный объект, который выводиться в космос. Т.е. для любого владельца объекта в космос возникает обязательство поддержки требований  Orbital Traffic Management, так как любая кинетическая энергия в космосе + средство управления (наведения) есть потенциальное оружие, вплоть до ОМП. 
-5. Требование включает обязательное использование БЛОКЧЕЙНА для хранения процедур управления, снабжение любого объекта модулем ОСУ или заключение контракта на обслуживание с владельцем группировки роботов-спутников. Отказ от присоединения к протоколу означает гигантские страховки и штрафы, которые платят компании, осуществляющие запуски. 
-6. Т.е. если приходит клиент с заявкой запустить объект, который не отвечает требованиям Orbital Traffic Security Protocol, то компания осуществляющая запуск обязана включить в цену сумму страховки от последствий того, что данным объектом нельзя управлять.
+#### Orbital Powerplant
 
-**Орбитальная силовая установка - это по сути платформа и экосистема. Появление прорывной ОСУ позволит реализовать множество проектов, которые сейчас невозможны технически или экономически.**
+1. The orbital power plant, allows free maneuvering in near-Earth space - economical, with high thrust, cheap in production and maintenance, easy to assemble and deploy assembly production.
+2. Anyone can buy a license and produce + quality control before the OSU is installed somewhere. A clear lifecycle of creation, upgrade, hot modification and recycling. A clear way of autonomous maintenance and repair in orbit with the use of robot satellites repairers.
+3. Security protocols, i.e., all on the CU and any attempt to intervene, automatically transfers the control of the special. Security algorithm.
+4. The OSU is completed with an independent object that is displayed in space. Those. For any owner of the object in space, there is a commitment to support the requirements of Orbital Traffic Management, since any kinetic energy in space + control means is a potential weapon, right up to WMD.
+5. The requirement includes the mandatory use of BLOKCHEEN for the storage of management procedures, the supply of an object with the AMS module or the conclusion of a service contract with the owner of a grouping of robotic satellites. Refusal to join the protocol means giant insurance and fines, which are paid to the companies that are launching.
+6. If a client arrives with an application to run an object that does not meet the requirements of the Orbital Traffic Security Protocol, then the launching company is obliged to include in the price the amount of insurance against the consequences of the fact that this object cannot be managed.
 
-
-#### Управление движением пассивных объектов
-
-1. Пассивными объектами управляют **роботы-спутники**. 
-2. Для владельцев пассивных объектов роботы-спутники оказывают услуги поддержки и коррекции орбит. А для стран и компаний, несущих ответственность за утилизацию космического мусора роботы-спутники собирают его в зоны утилизации.
-3. Роботы-спутники, поддерживают Orbital Traffic Security Protocol. 
-4. Робот-спутник состоит из нескольких элементов: ОСУ - силовая установка, ОС Спутника - операционная система спутника, Робот с манипуляторами и эффекторами, Система связи. Робот-спутник может быть собран на орбите другим роботом-спутником в любой конфигурации.
-5. В зависимости от загруженной программы РС может выполнять функции транспортировки (буксира), ускорителя при смене орбиты пассивными объектами, сборка, разборка, разрезание, любые логистические операции.
-6. Группировка роботов-спутников является частью Orbital Traffic Management System, а также частью системы Orbital Manufacturing 
+**An orbital propulsion system is essentially a platform and an ecosystem. The emergence of a breakthrough OSU will make it possible to implement many projects that are currently impossible technically or economically.**
 
 
-### Раздел 2. Вывод на орбиту
+#### Controlling the movement of passive objects
 
-1. Разработка новой силовой установки, способной выводить полезный груз кратно дешевле, эффективней, без нанесения ущерба экологии.
-2. Разработка альтернативных методов доставки грузов на орбиты - центрифуги, катапульты, разгонные технологии и т.п.
-3. Разработка логистики обслуживания орбиты, позволяющей доставлять полезный груз на орбиту и обратно быстро, дешево, в больших объемах, большие полезные веса.
-4. Анти гравитационные установки.
+1. Passive objects are controlled by **robots-satellites**.
+2. For owners of passive objects, satellite robots provide support and correction services for orbits. And for countries and companies responsible for the disposal of space debris, satellite robots collect it into disposal areas.
+3. Robots-satellites, support the Orbital Traffic Security Protocol.
+4. The robot-satellite consists of several elements: OSU - power unit, Satellite OS - satellite operating system, Robot with manipulators and effectors, Communication system. The robot-satellite can be assembled in orbit by another robot-satellite in any configuration.
 
+# Section 2. In-orbit
 
-### Раздел 4. Функции спутников (полезного груза) и объектов на орбите
-
-1. Дистанционное зондирование Земли
-2. Связь
-3. Управление объектами орбиты - элемент Orbital Traffic Management System
-4. Дата центы - энерго эффективность, экология, доступность, производительность - ремонтопригодность, масштабируемость
-5. Роботизированные (и не только) производства на орбите - как часть обширной концепции вывода всех производств и добычи ресурсов в космос.
-6. Элементы защиты от астероидной опасности на орбитах Земли
-7. Элементы защиты от инопланетного вторжения на орбитах Земли
-8. Системы мониторинга около земного пространства, солнечной системы и дальнего космоса.
-9. Научные роботизируемые и пилотируемые научные комплексы.
-10. Космические госпитали.
-11. Орбитальные ДЕПО - как часть инфраструктуры обслуживания движения, жизнедеятельности и безопасности всей орбитальной группировки. Заправочные станции, роботизированные сервисные и ремонтные станции, склады и т.п.
-12. Станции утилизации отработанных материалов.
-13. Генерация энергии на орбите.
-14. Разгонные комплексы для дальних полетов…. орбитальные катапульты.
-15. Авто сборочные производства, которые способны в автономном режиме без людей создавать объекты инфраструктуры на орбите.
-
-### Раздел 5. Системы работы с данными
-
-Системы, способные получать данные от всей группировки спутников, наземных источников, предикция и мониторинг - часть систем поддержки принятия геополитических и финансовых решений
-
-### Раздел 6. Солнечная система и пояс астероидов
-
-1. Создание силовой установки, способной разгонять полезный груз до суб-световых скоростей дешево, чтобы полеты по солнечной система приобрели экономический и социальный смысл
-2. Искусственна гравитация в станциях с длительным пребыванием людей, длительных перелетах.
-3. Создание полностью автономным систем жизнеобеспечения с длительным жизненным циклом.
-4. Перенос поставок воды и ряда материалов с Земли на Луну и астероиды.
-
-### Раздел 7. Наземная сервисная инфраструктура
-
-1. Проекты аггрегаторов систем и каналов связи
-2. Букинг запусков
-3. Обеспечение поставок (коммодитис).
-
-### Раздел 8. Освоение Луны
-
-1. Автоматизированные само развертывающиеся станции и комплексы, различные типы автоматизированных роботизированных сборочных производств, когда идет только поставка частей, а вся сборка на орбите и поверхности Луны происходит автоматически.
+1. Development of a new power plant capable of outputting a payload is cheaper, more efficient, without causing damage to the environment.
+2. Development of alternative methods for delivering goods to orbit - centrifuges, catapults, accelerating technologies, etc.
+3. Development of logistics for the maintenance of the orbit, which allows carrying a valuable cargo to orbit and back quickly, cheaply, in large quantities, large useful weights.
+4. Anti-gravity installation.
 
 
-# Предпосылки подхода
+### Section 4. Functions of satellites (payload) and objects in orbit
 
-Все проекты в космической индустрии можно разделить на 3 стадии - exstra early stage , development and validation stage, business stage.
+1. Remote sensing of the Earth
+2. Communication
+3. Orbital object management - an element of Orbital Traffic Management System
+4. Date cents - energy efficiency, ecology, availability, performance - maintainability, scalability
+5. Robotic (and not only) production in orbit - as part of a broad concept of the withdrawal of all production and extraction of resources into space.
+6. Elements of protection against asteroid hazard on Earth orbits
+7. Aspects of protection against extraterrestrial intrusion on Earth orbits
+8. Monitoring systems around terrestrial space, solar system, and deep space.
+9. Scientific robotic and manned scientific complexes.
+10. Space Hospitals.
+11. Orbital depots - as part of the infrastructure of traffic, life and security maintenance of the entire orbital grouping. Refueling stations, robotic service and repair stations, warehouses, etc.
+12. Plants for the disposal of waste materials.
+13. Generation of energy in orbit.
+14. Overclocking complexes for long-distance flights orbital catapults.
+15. Auto assembly production that is capable of offline operation without people creating infrastructure facilities in orbit.
 
-* Проекты, попадающие в exstra early stage  - имеют 100% риска, как правило в основе есть только идея, гипотеза, часто неполная команда, требуется интенсивный R&D - такие проекты финансируются как правило через гранты и конкурируют за деньги фондов.
-* Проекты в development and validation stage - требуют довольно существенных ресурсов, но еще имеют фокус на технологию, без которой бизнес просто невозможно построить. Такие проекты в космической индустрии труднее всего получают финансирование, потому, что с одной стороны они могут требовать ресурсов, но степень риска и коммерческие перспективы еще не определены.
-* Проекты в business stage имеют целью построить бизнес на основе уже имеющейся технологии. Такие проекты финансируют профильные VC, научные фонды или стратегические инвесторы в лице отраслевых гигантов.
+### Section 5. Data Systems
 
-**Гипотеза об основной проблеме финансирования отрасли**
+Systems capable of receiving data from the entire constellation of satellites, terrestrial sources, prediction, and monitoring are part of the systems for supporting the adoption of geopolitical and financial decisions
 
-Проекты в стадиях exstra early stage, development and validation stage - испытывают большие трудности фондирования из-за высокой конкуренции за деньги, большой капиталоемкости, высоких рисков и очень узкого круга фондов, инвестирующих в космическую индустрию.
+### Section 6. The solar system and the asteroid belt
 
-**Решение проблемы**
+1. Creation of a power plant capable of dispatching a useful cargo to sub-light speeds is cheap so that flights on the solar system acquire economic and social meaning
+2. Artificial gravity in stations with an extended stay of people, long trips.
+3. The designing of entirely autonomous life support systems with a long life cycle.
+4. Transfer of water supplies and some materials from the Earth to the Moon and asteroids.
 
-1. Создание системы 2 этапного фондирования. 
-2. Первый этап финансирования организуется через классические ICO с использованием публичных блокчейнов. Задача данного этапа - привлечение небольших сумм, которых достаточно для валидации основных технологических и продуктовых гипотез, реалистичности и реализуемости подходов и способности команды выполнить заявленные обещания. В этом ICO могут принимать участие все желающие. Порядок целевых сумм может не превышать сотен тысяч и миллиона долларов. Предполагается, что выходом данного этапа станет допуск к закрытой площадке для привлечения значительных сумм второго этапа.
-3. Второй этап финансирования организуется через закрытое ICO с использованием закрытого блокчейна. Задача данного этапа - привлечение значительных сумм, которых достаточно для реализации коммерчески пригодного технологического решения. Порядок целевых сумм может достигать сотен и, возможно, миллиарды долларов. В этом ICO могут принимать участие только допущенные члены консорциума с суммами не менее определенной заранее. Частные инвесторы с любыми сколь угодно малыми суммами могут финансировать проекты на данном этапе через крипто фонды, которые объединяют небольших инвесторов в пулы. Такая схема с одной стороны позволяет небольшим инвесторам покупать токены проектов через фонд, а с другой стороны повышает безопасность крупных ICO, так как сам краудсейл доступен только для авторизованных участников. Такая площадка закрыта для внешнего мира, чтобы солюдать повышенные меры безопасности. Важная особенностью второго этапа - к этому этапу допускаются тольк те проекты, которые достигли определенных показателей на 1-ом этапе.
+### Section 7. Ground Service Infrastructure
 
-# Миссия
+1. Projects of aggregators of systems and communication channels
+2. Starting bookings
+3. Provision of supplies.
 
-A. Все производство и добычу ресурсов вынести в космос, где на 99% будут оперировать многофункциональные роботы, они же будут собирать и конфигурировать себя на орбите, а управлять этим будет Grid AI
+### Section 8. The Development of the Moon
 
-B. Землю превратить в глобальный Университет и исследовательский центр.
+1. Automated self-deploying stations and complexes, various types of automated robotic assembly plants, when only parts are delivered, and the entire assembly on the orbit and the surface of the Moon occurs automatically.
 
-Пояснение: https://www.facebook.com/alex.v.krol/posts/10210730500091210
+
 
